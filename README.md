@@ -1,4 +1,4 @@
-the api key is the following in order without spaces.
+access token for weather api
 6236ad9
 c9983e5
 dacc22c
